@@ -1,1 +1,13 @@
-test
+QNN_QR
+
+Published in : 'QNN'
+
+Description : 'Simulates heteroscedastic data and fits the 10% quantile, median and 90% quantile.'
+
+Keywords : Quantile regression, conditional quantile
+
+See also : 'QNN_Loss, NNQR_CoVaR'
+
+Author : Georg Keilbar
+
+Submitted : January 18, 2019 by Georg Keilbar
