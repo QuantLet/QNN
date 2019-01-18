@@ -6,7 +6,7 @@ Description : 'Plots the mean squared error, 50% tilted absolute error, 90% tilt
 
 Keywords : Quantile regression, loss functions, MSE
 
-See also : 'QNN_QR, NNQR_CoVaR'
+See also : 'QNN_QR, NNQR_CoVaR, NNQR_Heat, NNQR_Network, NNQR_SNRI'
 
 Author : Georg Keilbar
 
