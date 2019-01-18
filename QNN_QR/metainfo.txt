@@ -6,7 +6,7 @@ Description : 'Simulates heteroscedastic data and fits the 10% quantile, median 
 
 Keywords : Quantile regression, conditional quantile
 
-See also : 'QNN_Loss, NNQR_CoVaR'
+See also : 'QNN_Loss, NNQR_CoVaR, NNQR_Heat, NNQR_Network, NNQR_SNRI'
 
 Author : Georg Keilbar
 
