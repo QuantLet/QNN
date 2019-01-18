@@ -1,1 +1,13 @@
+Name of QuantLet : QNN_Loss
 
+Published in : 'QNN'
+
+Description : 'Plots the mean squared error, 50% tilted absolute error, 90% tilted absolute error'
+
+Keywords : Quantile regression, loss functions, MSE
+
+See also : 'QNN_QR, NNQR_CoVaR'
+
+Author : Georg Keilbar
+
+Submitted : January 18, 2019 by Georg Keilbar
